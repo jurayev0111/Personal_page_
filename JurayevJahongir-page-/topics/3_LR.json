@@ -1,0 +1,33 @@
+{
+    "title": "Лабораторные работы",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛР1: ",
+                    "class": "md-title"
+                }
+            ]
+        },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛР2: ",
+                    "class": "md-title"
+                }
+                    ]
+        },
+        
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "ЛР3:",
+                    "class": "md-title"
+                }
+            ]
+        }
+      ]
+}
